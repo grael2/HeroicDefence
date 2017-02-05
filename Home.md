@@ -45,7 +45,7 @@ Have fun!
 
 # Damage and armor system #
 
-Version 1 (Simple) -> 
+## Version 1 ##
 
 ***DAMAGE = (1-armor_mitigation)***
 
@@ -53,17 +53,17 @@ Armor and MagicArmor which follow the same formula
 
 ![Bez tytułu.png](https://bitbucket.org/repo/Bre4xM/images/3162467063-Bez%C2%A0tytu%C5%82u.png)
 
-Version 2 (Resists) ->
+## Version 2 (with resists) ## 
 
 ***DAMAGE= (1-armor_mitigation) * (1-resists_on_damage_type).***
 
 Resists are flat similar to GRIM DAWN, capped at 80%.
 Damage/resist types:
 
-Physical
-Ranged
-Elemental
-Dark/Hex
-Divine
+* Physical
+* Ranged
+* Elemental
+* Dark/Hex
+* Divine
 
 Requires adding damage type to every attack and variables of resists for every creature, costly from developer perspective, but allows to build more complicated systems.
