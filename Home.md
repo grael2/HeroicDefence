@@ -3,7 +3,7 @@
 This is Heroic Defence developer wiki. Add here all game related information like:
 * Mechanics description
 * Formulas
-* Anything else you feel like is fitting.
+* Anything else you feel like is fitting
 
 
 
@@ -38,7 +38,7 @@ Damage/resist types:
 Requires adding damage type to every attack and variables of resists for every creature, costly from developer perspective, but allows to build more complicated systems.
 
 
-
+***
 ## Wiki features
 
 This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax. The [MarkDownDemo tutorial](https://bitbucket.org/tutorials/markdowndemo) shows how various elements are rendered. [Bitbucket documentation](https://confluence.atlassian.com/display/BITBUCKET/Use+a+wiki) has more information about how using a wiki.
