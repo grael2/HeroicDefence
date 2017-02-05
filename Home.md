@@ -47,11 +47,12 @@ Have fun!
 
 ## Version 1 ##
 
-***DAMAGE = (1-armor_mitigation)***
+***Damage = (1 - armorMitigation)***
 
-Armor and MagicArmor which follow the same formula
+Armor and magicArmor which follow the same formula
 
 ![Bez tytułu.png](https://bitbucket.org/repo/Bre4xM/images/3162467063-Bez%C2%A0tytu%C5%82u.png)
+Formula link: [WolphramAlpha link](https://www.wolframalpha.com/input/?i=plot+1+-+0.004++x+%2F(1+%2B+(0.004++%7Cx%7C))+,++x%3D-0...5000)
 
 ## Version 2 (with resists)  
 
