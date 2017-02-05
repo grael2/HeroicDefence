@@ -16,7 +16,13 @@ Table of contents:
 
 ## Version 1 ##
 
-***Damage = (1 - armorMitigation)***
+
+```
+#!python
+
+Damage = (1 - armorMitigation)
+```
+
 
 Armor and magicArmor which follow the same formula
 
@@ -27,7 +33,7 @@ https://www.wolframalpha.com/input/?i=plot+1+-+0.004++x+%2F(1+%2B+(0.004++%7Cx%7
 
 ## Version 2 (with resists)  
 
-***Damage= (1 - armorMitigation) * (1 - resistsOnDamageType).***
+Damage = (1 - armorMitigation) * (1 - resistsOnDamageType).
 
 Resists are flat similar to Grim Dawn, capped at 80%.
 
