@@ -53,13 +53,13 @@ Armor and MagicArmor which follow the same formula
 
 ![Bez tytułu.png](https://bitbucket.org/repo/Bre4xM/images/3162467063-Bez%C2%A0tytu%C5%82u.png)
 
-## Version 2 (with resists) ## 
+## Version 2 (with resists)  
 
-***DAMAGE= (1-armor_mitigation) * (1-resists_on_damage_type).***
+***Damage= (1 - armorMitigation) * (1 - resistsOnDamageType).***
 
-Resists are flat similar to GRIM DAWN, capped at 80%.
+Resists are flat similar to Grim Dawn, capped at 80%.
+
 Damage/resist types:
-
 * Physical
 * Ranged
 * Elemental
