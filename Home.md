@@ -1,6 +1,7 @@
 # Welcome
 
-This is Heroic Defence developer wiki. Add here all game related information like:
+This is Heroic Defence developer wiki. Add here all game related information.
+
 * Mechanics description
 * Formulas
 * Anything else you feel like is fitting
