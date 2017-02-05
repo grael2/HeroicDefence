@@ -7,8 +7,9 @@ This is Heroic Defence developer wiki. Add here all game related information.
 * Anything else you feel like is fitting
 
 Table of contents:
-1. [Damage and armor system](#Damage and armor system)
 
+1. [Damage and armor system](#Damage and armor system)
+2. [Technical wiki info](#Wiki features)
 ***
 
 # Damage and armor system #
