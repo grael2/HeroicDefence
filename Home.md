@@ -58,7 +58,17 @@ Damage/resist types:
 * Divine
 
 Requires adding damage type to every attack and variables of resists for every creature, costly from developer perspective, but allows to build more complicated systems.
+***
+# Offensive and Defensive Ability #
 
+Chance to hit formula. Taken from http://www.grimdawn.com/guide/gameplay/combat.php 
+```
+#!python
+
+
+Probability To Hit (PTH) = ((((Attacker's OA / ((Defender's DA / 3.5) + Attacker's OA)) * 300) * 0.3) + (((((Attacker's OA * 3.25) + 10000) - (Defender's DA * 3.25)) / 100) * 0.7)) - 50
+
+```
 
 ***
 ## Wiki features
