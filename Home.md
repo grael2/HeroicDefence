@@ -63,7 +63,7 @@ Requires adding damage type to every attack and variables of resists for every c
 
 ## Chance to hit ##
 Chance to hit formula.
-Taken from http://www.grimdawn.com/guide/gameplay/combat.php 
+
 ```
 #!python
 
@@ -73,33 +73,66 @@ Probability To Hit (PTH) = ((((Attackers OA / ((Defenders DA / 3.5) + Attackers 
 ```
 ## Glancing blows and crital hits ##
 
+
+```
+#!python
+
 PTH Threshold 1: 70 (1.0 damage)
+```
+
 
 If your PTH is lower than 70, any attacks that land will do reduced damage. The damage reduction multiplier is equal to your PTH / 70 (ex. if your PTH is 65, you will do 92.86% of normal damage on a hit, or 65/70). It is highly uncommon to go below a PTH of 70, though it can happen against targets that are significantly higher level than you.
 
 Example: PTH = 65, 1-65 hits for 93.33% damage, 66-100 misses
 
+
+```
+#!python
+
 PTH Threshold 2: 90 (1.10x damage)
+```
+
 
 When your PTH reaches 90 and beyond, you will begin to see critical hits.
 
 Example: PTH = 97, 1-89 hits, 90-97 critically hits for 1.1x damage, 98-100 misses
 
+
+```
+#!python
+
 PTH Threshold 3: 105 (1.2x damage)
+```
+
 
 At PTH 100 and above, you cannot miss your target. At PTH 105+, you will begin to see the second tier of critical hits.
 
 Example: PTH = 107, 1-89 hits, 90-104 critically hits for 1.1x damage, 105-107 critically hits for 1.2x damage
 
+
+```
+#!python
+
 PTH Threshold 4: 120 (1.3x damage)
+```
+
 
 At PTH 120 and above, you will begin to see the third tier of critical hits.
 
 Example: PTH = 124, 1-89 hits, 90-104 critically hits for 1.1x damage, 105-119 critically hits for 1.2x damage, 120-124 critically hits for 1.3x damage
 
+```
+#!python
+
+
 PTH Thresholds 5 and 6: 130 (1.4x damage) and 135 (1.5x damage)
+```
+
 
 The pattern continues for the final two tiers of critical hits. Beyond the 6th threshold, you will no longer see higher critical hit values, but you will see critical hits more reliably.
+
+
+Source: Taken from http://www.grimdawn.com/guide/gameplay/combat.php 
 ***
 ## Wiki features
 
