@@ -30,7 +30,9 @@ Damage = (1 - armorMitigation)
 
 
 Armor and magicArmor which follow the same formula
+
 Function 1.0
+
 ![Bez tytułu.png](https://bitbucket.org/repo/Bre4xM/images/3162467063-Bez%C2%A0tytu%C5%82u.png)
 
 Formula link:   
