@@ -31,7 +31,7 @@ Damage = (1 - armorMitigation)
 
 Armor and magicArmor which follow the same formula
 
-Function 1.0
+Formula 1.0
 
 ![Bez tytułu.png](https://bitbucket.org/repo/Bre4xM/images/3162467063-Bez%C2%A0tytu%C5%82u.png)
 
@@ -64,6 +64,7 @@ Requires adding damage type to every attack and variables of resists for every c
 ## Chance to hit ##
 Chance to hit formula.
 
+Formula 2.0
 ```
 #!python
 
@@ -132,7 +133,7 @@ PTH Thresholds 5 and 6: 130 (1.4x damage) and 135 (1.5x damage)
 The pattern continues for the final two tiers of critical hits. Beyond the 6th threshold, you will no longer see higher critical hit values, but you will see critical hits more reliably.
 
 
-Source: Taken from http://www.grimdawn.com/guide/gameplay/combat.php 
+Source: http://www.grimdawn.com/guide/gameplay/combat.php 
 ***
 ## Wiki features
 
