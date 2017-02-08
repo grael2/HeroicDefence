@@ -132,7 +132,7 @@ PTH Thresholds 5 and 6: 130 (1.4x damage) and 135 (1.5x damage)
 
 The pattern continues for the final two tiers of critical hits. Beyond the 6th threshold, you will no longer see higher critical hit values, but you will see critical hits more reliably.
 
-
+In our version the crit modifiers are: 1.2, 1.4, 1.6, 1.8 and 2.0 since we won't have "Critical damage" statistic
 Source: http://www.grimdawn.com/guide/gameplay/combat.php 
 ***
 ## Wiki features
