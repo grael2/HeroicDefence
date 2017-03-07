@@ -141,7 +141,15 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
-|Offensive Ability| Rating | +0.5 DA/OA  |
+|Offensive Ability| Rating | +0.5 OA  |
+|Defensive Ability| Rating | +0.5 DA  |
+|Speed | Rating | +0.33% moveSpeed up to +50% cap |
+|Attack Speed | Rating |-0.33% attackSpeed up to -100% cap |
+
+
+
+
+
 
 
 ***
