@@ -134,6 +134,13 @@ The pattern continues for the final two tiers of critical hits. Beyond the 6th t
 
 In our version the crit modifiers are: 1.2, 1.4, 1.6, 1.8 and 2.0 since we won't have "Critical damage" statistic
 Source: http://www.grimdawn.com/guide/gameplay/combat.php 
+
+***
+## Player statistics
+
+| Stat | Rating/flat increase | Function |
+|------|----------------------|----------|
+
 ***
 ## Wiki features
 
