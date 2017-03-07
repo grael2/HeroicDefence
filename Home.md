@@ -141,6 +141,7 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
+|Offensive Ability| Rating | +0.5 DA/OA  |
 
 
 ***
