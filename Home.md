@@ -138,6 +138,7 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 ***
 ## Player statistics
 
+# Dexterity #
 
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
