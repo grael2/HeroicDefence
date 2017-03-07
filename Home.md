@@ -138,8 +138,10 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 ***
 ## Player statistics
 
+
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
+
 
 ***
 ## Wiki features
