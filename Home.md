@@ -142,20 +142,29 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
-|Offensive Ability| Rating | +0.5 OA  |
-|Defensive Ability| Rating | +0.5 DA  |
+|Offensive ability| Rating | +0.5 OA  |
+|Defensive ability| Rating | +0.5 DA  |
 |Speed | Rating | +0.33% moveSpeed up to +50% cap |
-|Attack Speed | Rating |-0.33% attackSpeed up to -100% cap |
+|Attack speed | Rating |-0.33% attackSpeed up to -100% cap |
 
 ## Intellect ##
 
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
-|Mana | Flat increase | +5 mana|
-|Mana Regen| Flat increase| +0.05 manaPerSecond | 
-|Resist |Rating |Formula 1.0 |
-|Ability Damage | Rating |+0.33% abilityDamage|
+| Mana | Flat increase | +5 mana|
+| Mana regeneration | Flat increase | +0.05 manaPerSecond | 
+| Resist | Rating | Formula 1.0 |
+| Ability damage | Rating | +0.33% abilityDamage |
 
+
+## Strength ##
+
+| Stat | Rating/flat increase | Function |
+|------|----------------------|----------|
+| Health  | Flat increase | +5 maxHealth |
+| Health regeneration | Flat increase | +0.05 healthPerSecond |
+|Physical damage  | Rating | +0.33% attackPower |
+| Armor  | Rating | +0.33% armor |
 
 
 
