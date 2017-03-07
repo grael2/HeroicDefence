@@ -136,9 +136,9 @@ In our version the crit modifiers are: 1.2, 1.4, 1.6, 1.8 and 2.0 since we won't
 Source: http://www.grimdawn.com/guide/gameplay/combat.php 
 
 ***
-## Player statistics
+# Player statistics #
 
-# Dexterity #
+## Dexterity ##
 
 | Stat | Rating/flat increase | Function |
 |------|----------------------|----------|
@@ -146,6 +146,16 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 |Defensive Ability| Rating | +0.5 DA  |
 |Speed | Rating | +0.33% moveSpeed up to +50% cap |
 |Attack Speed | Rating |-0.33% attackSpeed up to -100% cap |
+
+## Intellect ##
+
+| Stat | Rating/flat increase | Function |
+|------|----------------------|----------|
+|Mana | Flat increase | +5 mana|
+|Mana Regen| Flat increase| +0.05 manaPerSecond | 
+|Resist |Rating |Formula 1.0 |
+|Ability Damage | Rating |+0.33% abilityDamage|
+
 
 
 
