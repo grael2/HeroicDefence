@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://piotr_jankowiak@bitbucket.org/piotr_jankowiak/hero_defence.git/wiki
+	fetch = +refs/*:refs/*
+	mirror = true
