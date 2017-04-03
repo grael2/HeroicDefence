@@ -1,11 +1,31 @@
 # Welcome
-
 This is Heroic Defence developer wiki. Add here all game related information.
 
+This game is created by our 2 person team: Piotr Jankowiak and Piotr Kałużny. It is written in C# and is made only from the free assets and samples that were changed and rewritten for our purposes.
+Notably:
+- Inventory Master (https://www.assetstore.unity3d.com/en/#!/content/26310)
+- Magic Pack (https://www.assetstore.unity3d.com/en/#!/content/36269)
+- Medieval Castle (https://www.assetstore.unity3d.com/en/#!/content/51230)
+- RPG Character Animation Pack (https://www.assetstore.unity3d.com/en/#!/content/65284)
+- Tileable Painted Ground Textures (https://www.assetstore.unity3d.com/en/#!/content/62018)
+- RPG Inventory Icons (https://www.assetstore.unity3d.com/en/#!/content/56687),
+And a lot of models and "creature packs", also models from other sources than assetstore that are included in our internal source base.
+
+# Game Description #
+Game purpose is to defend the Castle from the waves of incoming creatures. The game includes:
+- Point to click hack&slash RPG interface.
+- Inventory and statistics system (if you liked Diablo or Titan Quest you will appreciate it).
+- Skill and attributes system with working Buffs and AOE.
+- Functional shop and itembase.
+- Loot system.
+- Working buffs and potions.
+- Waves of different spawning enemies.
+
+
+
+# Technical wiki stuff #
 * Mechanics description
 * Formulas
-* Anything else you feel like is fitting
-
 Table of contents:
 
 1. [Damage and armor system](#markdown-header-damage-and-armor-system)
@@ -15,25 +35,17 @@ Table of contents:
 # Damage and armor system #
 
 ## Version 1 ##
-
-
-
-
-
 ```
 #!python
 
 Damage = (1 - armorMitigation)
 ```
 
-
-
-
 Armor and magicArmor which follow the same formula
 
 Formula 1.0
 
-![Bez tytułu.png](https://bitbucket.org/repo/Bre4xM/images/3162467063-Bez%C2%A0tytu%C5%82u.png)
+![Bez tytułu.png](http://i.imgur.com/AfXAFDf.png)
 
 Formula link:   
 https://www.wolframalpha.com/input/?i=plot+1+-+0.004++x+%2F(1+%2B+(0.004++%7Cx%7C))+,++x%3D-0...5000 
@@ -73,7 +85,6 @@ Probability To Hit (PTH) = ((((Attackers OA / ((Defenders DA / 3.5) + Attackers 
 
 ```
 ## Glancing blows and crital hits ##
-
 
 ```
 #!python
