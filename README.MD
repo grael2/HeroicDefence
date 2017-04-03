@@ -22,7 +22,7 @@ Game purpose is to defend the Castle from the waves of incoming creatures. The g
 - Working buffs and potions.
 - Waves of different spawning enemies.
 
-
+# Screenshots #
 
 # Technical wiki stuff #
 * Mechanics description
