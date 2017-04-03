@@ -3,13 +3,14 @@ This is Heroic Defence developer wiki. Add here all game related information.
 
 This game is created by our 2 person team: Piotr Jankowiak and Piotr Kałużny. It is written in C# and is made only from the free assets and samples that were changed and rewritten for our purposes.
 Notably:
-- Inventory Master (https://www.assetstore.unity3d.com/en/#!/content/26310)
-- Magic Pack (https://www.assetstore.unity3d.com/en/#!/content/36269)
-- Medieval Castle (https://www.assetstore.unity3d.com/en/#!/content/51230)
-- RPG Character Animation Pack (https://www.assetstore.unity3d.com/en/#!/content/65284)
-- Tileable Painted Ground Textures (https://www.assetstore.unity3d.com/en/#!/content/62018)
+- Inventory Master (https://www.assetstore.unity3d.com/en/#!/content/26310).
+- Magic Pack (https://www.assetstore.unity3d.com/en/#!/content/36269).
+- Medieval Castle (https://www.assetstore.unity3d.com/en/#!/content/51230).
+- RPG Character Animation Pack (https://www.assetstore.unity3d.com/en/#!/content/65284).
+- Tileable Painted Ground Textures (https://www.assetstore.unity3d.com/en/#!/content/62018).
 - RPG Inventory Icons (https://www.assetstore.unity3d.com/en/#!/content/56687),
 And a lot of models and "creature packs", also models from other sources than assetstore that are included in our internal source base.
+- RPG icons (http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453).
 
 # Game Description #
 Game purpose is to defend the Castle from the waves of incoming creatures. The game includes:
@@ -176,24 +177,4 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 | Health regeneration | Flat increase | +0.05 healthPerSecond |
 |Physical damage  | Rating | +0.33% attackPower |
 | Armor  | Rating | +0.33% armor |
-
-
-
-
-
-
-
-***
-## Wiki features
-
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax. The [MarkDownDemo tutorial](https://bitbucket.org/tutorials/markdowndemo) shows how various elements are rendered. [Bitbucket documentation](https://confluence.atlassian.com/display/BITBUCKET/Use+a+wiki) has more information about how using a wiki.
-
-The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
-
-Go ahead and try:
-
-```
-$ git clone https://piotr_jankowiak@bitbucket.org/piotr_jankowiak/hero_defence.git/wiki
-```
-
 Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
