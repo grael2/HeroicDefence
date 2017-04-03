@@ -177,4 +177,4 @@ Source: http://www.grimdawn.com/guide/gameplay/combat.php
 | Health regeneration | Flat increase | +0.05 healthPerSecond |
 |Physical damage  | Rating | +0.33% attackPower |
 | Armor  | Rating | +0.33% armor |
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
+
