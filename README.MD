@@ -28,7 +28,7 @@ Game purpose is to defend the Castle from the waves of incoming creatures. The g
 ![spells](https://raw.githubusercontent.com/grael2/HeroicDefence/master/Screenshots/2.png)
 ![items](https://raw.githubusercontent.com/grael2/HeroicDefence/master/Screenshots/3.png)
 ![shop](https://raw.githubusercontent.com/grael2/HeroicDefence/master/Screenshots/4.png)
-![skills](https://raw.githubusercontent.com/grael2/HeroicDefence/master/Screenshots/5.png)
+![talents](https://raw.githubusercontent.com/grael2/HeroicDefence/master/Screenshots/5.png)
 
 
 # Technical wiki stuff #
