@@ -19,7 +19,7 @@ Game purpose is to defend the Castle from the waves of incoming creatures. The g
 - Skill and attributes system with working Buffs and AOE.
 - Functional shop and itembase.
 - Loot system.
-- Working buffs and potions.
+- Active items - e.g. potions with stacking and hotbar use.
 - Waves of different spawning enemies.
 
 Quick demo video: https://my.mixtape.moe/sxsngq.webm (from Project view - not standalone game). The file is also uploaded in the repository.
